@@ -1,0 +1,22 @@
+{
+  "name": "track-scrolling",
+  "version": "1.0.4",
+  "description": "Track Browser scroll activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cutjavascript/track-scrolling.git"
+  },
+  "keywords": [
+    "scroll",
+    "scrolltracking"
+  ],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/cutjavascript/track-scrolling/issues"
+  },
+  "homepage": "https://github.com/cutjavascript/track-scrolling#readme"
+}
